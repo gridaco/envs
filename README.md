@@ -4,7 +4,7 @@
 
 ## Usage
 
-**Installation**
+**Installation 👇**
 
 ```bash
 npm i -g @grida/envs
