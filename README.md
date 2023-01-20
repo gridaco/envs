@@ -37,3 +37,9 @@ envs add
 ```
 envs rm
 ```
+
+
+## Alternatives
+
+- [dotenv vault by dotenv team](https://www.dotenv.org/)
+- [vault by hashicorp](https://www.vaultproject.io/)
